@@ -2,11 +2,12 @@ title: Hyde
 email: evg_manolov@abv.bg
 description: This is scary, but awesome!
 destination: docs
-baseurl: "/SoftUni-Front-End" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: emanolov
 github_username: emanolov
 
+exclude: [_assets]
 # Build settings
 markdown: kramdown
 plugins:
